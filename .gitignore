@@ -397,6 +397,15 @@ __pycache__/
 # # JetBrains Rider
 # *.sln.iml
 
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
 .venv/*
 *.pdf
 *.plk
