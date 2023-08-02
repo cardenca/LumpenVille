@@ -1,14 +1,17 @@
 site_name: Carlos Cardenas
-site_url: https://example.com/
+site_url: https://www.carlos-cardenasbravo.com/
 theme:
     name: simple-blog
     colors:
-      primary: red
+      primary: black
+markdown_extensions:
+  - admonition
 
 nav:
-  - Carlos Cardenas: index.md
-  - Acerca de mi: about.md
-  - Articulos: 
-    - articles/art01.md
-  - Publicaciones:
-    - Nombre Paper: papers/paper01.md
+  - Home: index.md
+  - About: about.md
+  - Articles: 
+    - Name: articles/art01.md
+  - Publications:
+    - WCPEC-8-01: papers/paper01.md
+    - WCPEC-8-02: papers/paper02.md
