@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://www.carlos-cardenasbravo.com/</loc>
+         <lastmod>2023-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.carlos-cardenasbravo.com/about/</loc>
+         <lastmod>2023-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.carlos-cardenasbravo.com/papers/</loc>
+         <lastmod>2023-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.carlos-cardenasbravo.com/articles/art01/</loc>
+         <lastmod>2023-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.carlos-cardenasbravo.com/papers/paper01/</loc>
+         <lastmod>2023-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.carlos-cardenasbravo.com/papers/paper02/</loc>
+         <lastmod>2023-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
