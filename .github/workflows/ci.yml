@@ -18,6 +18,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: cd cardenca
       - run: pip install mkdocs
       - run: mkdocs gh-deploy --force
