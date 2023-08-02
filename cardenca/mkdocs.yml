@@ -1,0 +1,14 @@
+site_name: Carlos Cardenas
+site_url: https://example.com/
+theme:
+    name: simple-blog
+    colors:
+      primary: red
+
+nav:
+  - Carlos Cardenas: index.md
+  - Acerca de mi: about.md
+  - Articulos: 
+    - articles/art01.md
+  - Publicaciones:
+    - Nombre Paper: papers/paper01.md
